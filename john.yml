@@ -1,3 +1,7 @@
-name: "John Figueiredo"
+name: 'John Figueiredo'
 age: 27
-gender: "Male"
+gender: 'Male'
+hobbies:
+  one: 'Producing Music'
+  two: 'Coding'
+  three: 'Running'
